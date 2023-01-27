@@ -3,7 +3,6 @@
     padding: 0;
     font-family: 'Poppins', sans-serif;
 }
-
 body {
     display: flex;
     flex-direction: column;
@@ -476,7 +475,7 @@ hr {
 }
 
 
-@media(max-width:425px) {
+@media (max-width:425px) {
 
     /*header+hamburger*/
     .header_nav {
@@ -495,6 +494,7 @@ hr {
 
     .main_page_content {
         width: 395px;
+        padding-right: 0px;
         padding-left: 15px;
     }
 
@@ -579,6 +579,8 @@ hr {
 
     /* Меню, которое будет появляться */
     .navbar {
+        display: flex;
+        flex-direction: column;
         position: fixed;
         top: 0;
         left: 0px;
@@ -655,7 +657,7 @@ hr {
     .week_position {
         align-items: center;
         justify-content: left;
-        padding: 0 0 0 30px;
+        padding: 0 0 0 25px;
     }
 
     .week_day {
