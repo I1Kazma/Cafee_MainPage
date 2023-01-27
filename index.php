@@ -19,7 +19,7 @@
         <header class="header_nav">
 
             <div class="nav_logo">
-                <img src="/img/header_logo.png" alt="Site_logo" class="header_logo">
+                <img src="img/header_logo.png" alt="Site_logo" class="header_logo">
             </div>
             <div class="hamburger">
                 <div class="menu-btn">
@@ -45,7 +45,7 @@
 
                 <div class="header_number">
                     <div>
-                        <img src="/img/phone.png" alt="Phone">
+                        <img src="img/phone.png" alt="Phone">
                     </div>
                     <div>
                         <span class="header_number_text">+32 9 282 57 25</span>
@@ -65,19 +65,19 @@
                 <a href="#openModal" class="btn_reserve">Reserve a table</a>
                 <div class="media">
                     <a href="" class="media">
-                        <img src="/img/FB.png" alt="">
+                        <img src="img/FB.png" alt="">
                     </a>
 
                     <a href="" class="media">
-                        <img src="/img/IG.png" alt="">
+                        <img src="img/IG.png" alt="">
                     </a>
 
                     <a href="" class="media">
-                        <img src="/img/Tw.png" alt="">
+                        <img src="img/Tw.png" alt="">
                     </a>
 
                     <a href="" class="media">
-                        <img src="/img/Yt.png" alt="">
+                        <img src="img/Yt.png" alt="">
                     </a>
                 </div>
             </div>
@@ -224,10 +224,10 @@
             </div>
 
             <div class="week_pics">
-                <img src="/img/week_pic1.png" alt="" class="week_img1">
+                <img src="img/week_pic1.png" alt="" class="week_img1">
                 <div class="rectangle">
                 </div>
-                <img src="/img/week_pic2.png" alt="" class="week_img2">
+                <img src="img/week_pic2.png" alt="" class="week_img2">
             </div>
         </div>
     </section>
