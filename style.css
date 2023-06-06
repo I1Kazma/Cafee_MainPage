@@ -15,7 +15,7 @@ body {
 .main_page {
     width: 1920px;
     height: 901px;
-    background-image: url(/img/bck_image.png);
+    background-image: url(img/bck_image.png);
     display: Flex;
     flex-direction: column;
 }
