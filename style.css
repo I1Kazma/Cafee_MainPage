@@ -16,7 +16,7 @@ body {
     width: 100%;
     background: #3A4574;
     display: Flex;
-    
+    justify-content: center;
 }
 
 .header_nav {
